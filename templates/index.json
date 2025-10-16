@@ -1,0 +1,242 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "6a3bb789-ce10-45f5-ae67-e2063ef8c76b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Generated test data",
+            "heading_size": "h1"
+          }
+        },
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "A theme and populated test store by Shopify to help you test commerce primitives.",
+            "text_style": "body"
+          }
+        },
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Shop products",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-0",
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-1",
+        "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-2"
+      ],
+      "custom_css": [],
+      "name": "Hero banner",
+      "settings": {
+        "image": "shopify://shop_images/hero-banner-is.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "ishoppes_duty_free_works_HanGgT": {
+      "type": "ishoppes-duty-free-works",
+      "name": "Duty Free Works",
+      "settings": {
+        "heading": "How Duty Free Works",
+        "button_link": "https://www.ishoppes.com/special-offer.html?page=1",
+        "button_label": "START SHOPPING"
+      }
+    },
+    "ishoppes_travel_exclusives_pgF8kX": {
+      "type": "ishoppes-travel-exclusives",
+      "blocks": {
+        "product_A9QcLP": {
+          "type": "product",
+          "settings": {
+            "product": "the-3p-fulfilled-snowboard"
+          }
+        },
+        "product_bGhzxg": {
+          "type": "product",
+          "settings": {
+            "product": "the-collection-snowboard-oxygen"
+          }
+        }
+      },
+      "block_order": [
+        "product_A9QcLP",
+        "product_bGhzxg"
+      ],
+      "name": "Travel Exclusives",
+      "settings": {
+        "heading": "TRAVEL EXCLUSIVES"
+      }
+    },
+    "ishoppes_new_arrivals_RtEpFJ": {
+      "type": "ishoppes-new-arrivals",
+      "blocks": {
+        "product_R7yUXe": {
+          "type": "product",
+          "settings": {
+            "product": "the-out-of-stock-snowboard"
+          }
+        },
+        "product_bC4FQP": {
+          "type": "product",
+          "settings": {
+            "product": "the-compare-at-price-snowboard"
+          }
+        },
+        "product_Fczywd": {
+          "type": "product",
+          "settings": {
+            "product": "the-inventory-not-tracked-snowboard"
+          }
+        },
+        "product_hDR33Y": {
+          "type": "product",
+          "settings": {
+            "product": "the-multi-managed-snowboard"
+          }
+        }
+      },
+      "block_order": [
+        "product_R7yUXe",
+        "product_bC4FQP",
+        "product_Fczywd",
+        "product_hDR33Y"
+      ],
+      "name": "New Arrivals",
+      "settings": {
+        "heading": "NEW ARRIVALS"
+      }
+    },
+    "ishoppes_special_offers_9QqDWT": {
+      "type": "ishoppes-special-offers",
+      "blocks": {
+        "offer_dLbLaj": {
+          "type": "offer",
+          "settings": {
+            "subtext": "LIMITED TIME OFFER",
+            "title": "Product Promo Title",
+            "image": "shopify://shop_images/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg",
+            "link": ""
+          }
+        },
+        "offer_Y8Tc3Q": {
+          "type": "offer",
+          "settings": {
+            "subtext": "LIMITED TIME OFFER",
+            "title": "Product Promo Title",
+            "image": "shopify://shop_images/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "offer_dLbLaj",
+        "offer_Y8Tc3Q"
+      ],
+      "name": "Special Offers",
+      "settings": {
+        "title": "SPECIAL OFFERS",
+        "description": "IS Duty Free provides exclusive deals you won’t find anywhere else!",
+        "view_all_link": "shopify://products/the-collection-snowboard-hydrogen"
+      }
+    },
+    "ishoppes_perfect_moments_aBFb98": {
+      "type": "ishoppes-perfect-moments",
+      "name": "Perfect Moments",
+      "settings": {
+        "heading": "PERFECT MOMENTS ARE TAILOR MADE",
+        "description": "Château Magnol is the heart of Barton & Guestier. The estate dates back to the 17th century and is known for producing high-quality wines that reflect the unique terroir of the region. “Château Magnol is the epitome of elegance, silky and exquisite”. Laurent Prada, B&G Head Winemaker.",
+        "button_label": "SHOP NOW",
+        "button_link": "#",
+        "right_image": "shopify://shop_images/perfect-moment.jpg"
+      }
+    },
+    "ishoppes_official_stores_CbxGjM": {
+      "type": "ishoppes-official-stores",
+      "blocks": {
+        "logo_PUKrWD": {
+          "type": "logo",
+          "settings": {
+            "brand_logo": "shopify://shop_images/dior_logo.webp",
+            "link": ""
+          }
+        },
+        "logo_Fdz7wy": {
+          "type": "logo",
+          "settings": {
+            "brand_logo": "shopify://shop_images/geln_logo.webp",
+            "link": ""
+          }
+        },
+        "logo_jkY9tb": {
+          "type": "logo",
+          "settings": {
+            "brand_logo": "shopify://shop_images/macallan_logo.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_PUKrWD",
+        "logo_Fdz7wy",
+        "logo_jkY9tb"
+      ],
+      "name": "Official Stores",
+      "settings": {
+        "title": "OFFICIAL STORES"
+      }
+    },
+    "ishoppes_newsletter_section_BewmwG": {
+      "type": "ishoppes-newsletter-section",
+      "name": "Newsletter Section",
+      "settings": {
+        "heading": "GET IN TOUCH",
+        "subtext": "Sign up for our newsletter and promotions."
+      }
+    },
+    "ishoppes_social_section_TuK8aZ": {
+      "type": "ishoppes-social-section",
+      "name": "Social Section",
+      "settings": {}
+    }
+  },
+  "order": [
+    "6a3bb789-ce10-45f5-ae67-e2063ef8c76b",
+    "ishoppes_duty_free_works_HanGgT",
+    "ishoppes_travel_exclusives_pgF8kX",
+    "ishoppes_new_arrivals_RtEpFJ",
+    "ishoppes_special_offers_9QqDWT",
+    "ishoppes_perfect_moments_aBFb98",
+    "ishoppes_official_stores_CbxGjM",
+    "ishoppes_newsletter_section_BewmwG",
+    "ishoppes_social_section_TuK8aZ"
+  ]
+}

@@ -1,0 +1,50 @@
+{% comment %}theme-check-disable UndefinedObject{% endcomment %}
+{{ 'section-footer.css' | asset_url | stylesheet_tag }}
+
+<footer class="footer color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
+  <div class="footer__custom page-width">
+    <div class="footer__custom-grid">
+      <div class="footer__custom-col">
+        <h2>Customer Service</h2>
+        <ul>
+          <li><a href="/pages/pre-order-faqs">Pre-order FAQs</a></li>
+          <li><a href="/pages/duty-free-allowances">Duty Free Allowances</a></li>
+          <li><a href="/policies/privacy-policy">Privacy Policy</a></li>
+          <li><a href="/policies/terms-of-service">Terms</a></li>
+        </ul>
+      </div>
+      <div class="footer__custom-col">
+        <h2>About Us</h2>
+        <ul>
+          <li><a href="/pages/about-us">About Us</a></li>
+          <li><a href="/pages/locations">Locations</a></li>
+          <li><a href="/pages/careers">Careers</a></li>
+        </ul>
+      </div>
+      <div class="footer__custom-col">
+        <h2>iShoppes Perks</h2>
+      </div>
+      <div class="footer__custom-col">
+        <h2>We Accept</h2>
+        <div class="footer__payments">
+          <img src="{{ 'visa-icon-a61.svg' | file_url }}" alt="Visa" width="40" height="24">
+          <img src="{{ 'master-icon-wTu.svg' | file_url }}" alt="MasterCard" width="40" height="24">
+          <img src="{{ 'discover-icon-fbV.svg' | file_url }}" alt="Discover" width="40" height="24">
+          <img src="{{ 'amex-icon-mL5.svg' | file_url }}" alt="American Express" width="40" height="24">
+          <img src="{{ 'wpay-icon-mxF.svg' | file_url }}" alt="UnionPay" width="40" height="24">
+        </div>
+        <div class="footer__contact">
+          <h2>Contact us</h2>
+          <ul>
+            <li><a href="mailto:dutyfree@ishoppes.com">dutyfree@ishoppes.com</a></li>
+            <li>Address: 540 Rockaway Avenue, Valley Stream, NY 11581</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer__custom-copyright caption">
+    <small>&copy; 2025 International Shoppes, LLC. All rights reserved.</small>
+  </div>
+</footer>
