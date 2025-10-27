@@ -15,7 +15,7 @@
         "slide_zrtRpA": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/brugal_home_desktop_77929ced8d.jpg",
+            "image": "shopify://shop_images/chanel_banner_desktop_b67af92b3d.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -33,6 +33,7 @@
         "slide_F7kTnh": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/brugal_home_desktop_77929ced8d.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
