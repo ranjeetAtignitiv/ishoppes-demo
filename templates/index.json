@@ -14,6 +14,7 @@
       "blocks": {
         "slide_4qapRE": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/chanel_banner_desktop_b67af92b3d.jpg",
             "heading": "Image slide",
